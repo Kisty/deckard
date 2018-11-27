@@ -1,10 +1,12 @@
 package com.example.activity;
 
-import android.app.Activity;
 import android.os.Bundle;
+
 import com.example.R;
 
-public class DeckardActivity extends Activity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class DeckardActivity extends AppCompatActivity {
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
